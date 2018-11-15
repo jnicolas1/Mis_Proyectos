@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter height="200%" id="svg_12_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="3.8"/>
+  </filter>
+  <filter height="200%" id="svg_13_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="1.8"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_14">
+   <path d="m194.78206,222.5c0,-69.45743 56.26051,-125.71794 125.71794,-125.71794c69.45743,0 125.71794,56.26051 125.71794,125.71794c0,69.45743 -56.26051,125.71794 -125.71794,125.71794c-69.45743,0 -125.71794,-56.26051 -125.71794,-125.71794z" fill="#aad4ff" filter="url(#svg_12_blur)" id="svg_12" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+   <path d="m196.782059,222.5c0,-69.457426 56.260515,-125.717941 125.717941,-125.717941c69.457426,0 125.717941,56.260515 125.717941,125.717941c0,69.457426 -56.260515,125.717941 -125.717941,125.717941c-69.457426,0 -125.717941,-56.260515 -125.717941,-125.717941z" fill="none" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+   <text fill="#003f7f" font-family="Cursivo" font-size="24" id="svg_3" stroke="#ff0000" stroke-width="0" text-anchor="middle" transform="matrix(4.73268 0 0 4.75764 -696.925 -400.538)" x="214.725935" xml:space="preserve" y="138.850166">JMN</text>
+   <text fill="#003f7f" filter="url(#svg_13_blur)" font-family="Cursivo" font-size="24" id="svg_13" stroke="#ff0000" stroke-width="0" text-anchor="middle" transform="matrix(4.73268 0 0 4.75764 -696.925 -400.538)" x="214.937234" xml:space="preserve" y="138.850166">JMN</text>
+  </g>
+ </g>
+</svg>
